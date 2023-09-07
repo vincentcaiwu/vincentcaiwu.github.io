@@ -19,4 +19,4 @@ Publications and Preprints
 ======
 * [Zhenyu Cui](https://sites.google.com/site/zhenyucui86/home?authuser=0), **Cai Wu** and [Lingjiong Zhu](https://sites.google.com/view/lingjiongzhu/home?authuser=0), [Explicit Solution to the Economic Index of Riskiness](https://www.researchgate.net/publication/373220541_Explicit_Solution_to_the_Economic_Index_of_Riskiness). Accepted by _Economics Letters_. 
 
-* [Zhenyu Cui](https://sites.google.com/site/zhenyucui86/home?authuser=0) and **C.Wu**, [An exact explicit solution to the adjustment coefficient in risk theory](https://www.researchgate.net/publication/373191492_An_exact_explicit_solution_to_the_adjustment_coefficient_in_risk_theory). Submitted to _European Actuarial Journal_.
+* [Zhenyu Cui](https://sites.google.com/site/zhenyucui86/home?authuser=0) and **Cai Wu**, [An exact explicit solution to the adjustment coefficient in risk theory](https://www.researchgate.net/publication/373191492_An_exact_explicit_solution_to_the_adjustment_coefficient_in_risk_theory). Submitted to _European Actuarial Journal_.

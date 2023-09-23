@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-To be updated...
+Newest version updated on Sept. 23rd: [How's your day!](https://vincentcaiwu.github.io/files/CV.pdf)

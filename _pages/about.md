@@ -17,7 +17,7 @@ Education
 
 Publications and Preprints
 ======
-- [Zhenyu Cui](https://sites.google.com/site/zhenyucui86/home?authuser=0), **Cai Wu** and [Lingjiong Zhu](https://sites.google.com/view/lingjiongzhu/home?authuser=0), [Explicit solution to the economic index of riskiness](https://www.sciencedirect.com/science/article/pii/S0165176523003683). Accepted by _Economics Letters_. Also available at: [[ResearchGate]](https://www.researchgate.net/publication/373220541_Explicit_Solution_to_the_Economic_Index_of_Riskiness)
+- [Zhenyu Cui](https://sites.google.com/site/zhenyucui86/home?authuser=0), **Cai Wu** and [Lingjiong Zhu](https://sites.google.com/view/lingjiongzhu/home?authuser=0), [Explicit solution to the economic index of riskiness](https://www.sciencedirect.com/science/article/pii/S0165176523003683).  _Economics Letters_, Volume 232, November 2023, 111343. Also available at: [[ResearchGate]](https://www.researchgate.net/publication/373220541_Explicit_Solution_to_the_Economic_Index_of_Riskiness)
   - In this paper, we develop an exact closed-form series expansion for the economic index of riskiness of general gambles in terms of moments information. Important special cases include the economic indexes of riskinesses proposed in Aumann and Serrano (2008); Bali et al. (2011); Foster and Hart (2009). Based on the closed-form formula, we characterize further theoretical properties for the economic index of riskiness. Numerical examples confirm the accuracy of the proposed closed-form formula.
 
 

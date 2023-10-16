@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Cai Wu (吴偲)**, a senior undergraduate student at the [School of Economics](https://econ.fudan.edu.cn/en/), [Fudan University](https://www.fudan.edu.cn/en/). My primary research interests include financial engineering, stochastic analysis and operations research. I am currently seeking for a Ph.D. position in aforementioned fields.
+I am **Cai Wu (吴偲)**, a senior undergraduate student at the [School of Economics](https://econ.fudan.edu.cn/en/), [Fudan University](https://www.fudan.edu.cn/en/). My primary research interests include financial engineering (financial mathematics, quantitative finance), stochastic analysis (stochastic control and games) and operations research. Specifically, I am interested in detailed topics including, but not limited to option pricing, market microstructure, algorithmic trading, high-frequency trading and Monte Carlo simulation. Meanwhile, I have a broader passion for the application of mathematical knowledge, statistical tools and coding skills in fields such as economics, actuarial science and ecology. I am currently seeking for a Ph.D. position in aforementioned fields.
 
 Education
 ======
@@ -22,7 +22,6 @@ Publications and Preprints
     <summary style="list-style-type: circle;">Abstract</summary>
     In this paper, we develop an exact closed-form series expansion for the economic index of riskiness of general gambles in terms of moments information. Important special cases include the economic indexes of riskinesses proposed in Aumann and Serrano (2008); Bali et al. (2011); Foster and Hart (2009). Based on the closed-form formula, we characterize further theoretical properties for the economic index of riskiness. Numerical examples confirm the accuracy of the proposed closed-form formula.
   </details>
-  
   
 - [An exact explicit solution to the adjustment coefficient in risk theory](https://www.researchgate.net/publication/373191492_An_exact_explicit_solution_to_the_adjustment_coefficient_in_risk_theory), with [Zhenyu Cui](https://sites.google.com/site/zhenyucui86/home?authuser=0). Submitted to _European Actuarial Journal_.
   <details>

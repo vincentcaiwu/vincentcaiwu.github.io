@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am **Cai Wu (吴偲)**, a senior undergraduate student at the [School of Economics](https://econ.fudan.edu.cn/en/), [Fudan University](https://www.fudan.edu.cn/en/). My primary research interests include financial engineering (financial mathematics, quantitative finance), stochastic analysis (stochastic control and games) and operations research. Specifically, I am interested in detailed topics including, but not limited to option pricing, market microstructure, algorithmic trading, high-frequency trading and Monte Carlo simulation. Meanwhile, I have a broader passion for the application of mathematical knowledge, statistical tools and coding skills in fields such as economics and actuarial science. I am currently seeking for a Ph.D. position in aforementioned fields.
+I am **Cai Wu (吴偲)**, a senior undergraduate student pursuing a major in Economics at the [School of Economics](https://econ.fudan.edu.cn/en/) with a minor in Financial Mathematics at the [School of Mathematical Sciences](https://math.fudan.edu.cn/mathen/main.htm), [Fudan University](https://www.fudan.edu.cn/en/) in China. 
+
+My primary research interests include financial engineering (financial mathematics, quantitative finance), stochastic analysis (stochastic control and games) and operations research. Specifically, I am interested in detailed topics including, but not limited to option pricing, market microstructure, algorithmic trading, high-frequency trading and Monte Carlo simulation, with an overall concentration on the combination of theoretical results and practical applications for practitioners, institutions and organizations. Meanwhile, I have a broader passion for the application of mathematical knowledge, statistical tools and coding skills in fields such as economics and actuarial science. 
+
+I am currently seeking for a Ph.D. position in aforementioned fields.
 
 Education
 ======

@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-* __Adding and subtractin Merton: A new approach for the optimal portfolio problem__
+* __Adding and subtracting Merton: A new approach for the optimal portfolio problem__
   - Proposed a diffusion-operator-integral-expansion-based method to solve optimal investment and consumption problems under several models.
   - Programmed for numerical experiments for the application of the proposed method to the optimal investment problem under several stochastic models, including the CEV, Heston, 4/2, SABR model, and optimal investment-consumption problem under the Heston model. 
 
